@@ -1,0 +1,8 @@
+Create file service-
+- read file and return content
+- create file and write content
+- delete file
+
+Expectation-
+- File service method should do work only when subscribers subscribe to that
+- communicate the error whenever there is an issue
