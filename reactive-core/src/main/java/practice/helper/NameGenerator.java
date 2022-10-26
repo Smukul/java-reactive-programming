@@ -1,4 +1,4 @@
-package practice.flux.helper;
+package practice.helper;
 
 import practice.Util;
 import reactor.core.publisher.Flux;

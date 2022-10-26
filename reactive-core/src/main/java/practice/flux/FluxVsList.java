@@ -1,7 +1,6 @@
 package practice.flux;
 
-import practice.Util;
-import practice.flux.helper.NameGenerator;
+import practice.helper.NameGenerator;
 import reactor.core.publisher.Flux;
 
 import java.util.List;
